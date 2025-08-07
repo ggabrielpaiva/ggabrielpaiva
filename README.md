@@ -5,11 +5,11 @@
 Me chamo Gabriel Paiva, tenho 18 anos e sou natural do Maranhão. Concluí o ensino médio no IEMA, com o curso técnico em informática para internet. Atualmente, estou cursando BICT na UFMA, aspirando ao curso de Engenharia da Computação. Sou fascinado por aprender novas tecnologias!
 
 <p align="left">
-    <a href="https://github.com/GabrielPaiva?tab=followers">
+    <a href="https://github.com/Gabriel Paiva?tab=followers">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Gabrielpaiva?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/github/followers/Gabriel Paiva?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
 </p>
