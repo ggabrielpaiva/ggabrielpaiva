@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack em Formação`**
 
-Me chamo Gabriel Paiva, tenho 18 anos e sou natural do Maranhão. Concluí o ensino médio no IEMA, com o curso técnico em informática para internet. Atualmente, estou cursando BICT na UFMA, aspirando ao curso de Engenharia da Computação. Sou fascinado por aprender novas tecnologias!
+Meu nome é Gabriel Paiva, tenho 18 anos e sou natural do Maranhão. Concluí o ensino médio no IEMA, onde também obtive formação técnica em Informática. Atualmente, curso o Bacharelado Interdisciplinar em Ciência e Tecnologia (BICT) na UFMA, tendo como o foco a Engenharia da Computação. Sou apaixonado por tecnologia e estou sempre em busca de aprender e explorar novas ferramentas e inovações.
 
 <p align="left">
     <a href="https://github.com/ggabrielpaiva?tab=followers">
