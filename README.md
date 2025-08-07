@@ -1,6 +1,8 @@
 # 👩🏻‍💻 Gabriel Paiva
 
-**`Desenvolvedor FullStack em Formação`**
+**`Front-end Developer`**
+
+Desenvolvedor FullStack em Formação
 
 Meu nome é Gabriel Paiva, tenho 18 anos e sou natural do Maranhão. Concluí o ensino médio no IEMA, onde também obtive formação técnica em Informática. Atualmente, curso o Bacharelado Interdisciplinar em Ciência e Tecnologia (BICT) na UFMA, tendo como o foco a Engenharia da Computação. Sou apaixonado por tecnologia e estou sempre em busca de aprender e explorar novas ferramentas e inovações.
 
