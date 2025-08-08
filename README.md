@@ -99,8 +99,7 @@ Meu nome é Gabriel Paiva, tenho 18 anos e sou natural do Maranhão. Concluí o 
   />
 
 </p>
-
-
+<img align="buttom" float="center" alt="Lucario Pókemon" width="260" src="https://64.media.tumblr.com/5b83f8fb1df36abd0f1ce985d4d22428/ac0b4500f5318760-00/s500x750/8de1f8856a67ab5030c799891e1c91e69188ac50.gif" />
 
 
 
