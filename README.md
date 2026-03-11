@@ -1,11 +1,10 @@
 # 👩🏻‍💻 Gabriel Paiva
 
-**`Front-end Developer`**
+**`Data Analyst`**
 
-Desenvolvedor FullStack em Formação
+Analista de Dados Jr.
 
-Meu nome é Gabriel Paiva, tenho 18 anos e sou natural do Maranhão. Concluí o ensino médio no IEMA, onde também obtive formação técnica em Informática. Atualmente, curso o Bacharelado Interdisciplinar em Ciência e Tecnologia (BICT) na UFMA, tendo como o foco a Engenharia da Computação. Sou apaixonado por tecnologia e estou sempre em busca de aprender e explorar novas ferramentas e inovações.
-
+Meu nome é Gabriel Paiva!
 <p align="left">
     <a href="https://github.com/ggabrielpaiva?tab=followers">
         <img 
